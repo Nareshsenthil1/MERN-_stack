@@ -1,0 +1,21 @@
+/* Custom styles */
+body {
+  background-color: #020507;
+}
+
+#ticketForm {
+  background-color: #fff;
+  padding: 20px;
+  border-radius: 8px;
+  box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+}
+
+#seatSelection {
+  /* Styles for seat selection UI */
+}
+
+.footer {
+  position: fixed;
+  bottom: 0;
+  width: 100%;
+}
